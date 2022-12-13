@@ -34,4 +34,14 @@
 
 
 
+---------------------------------------
+E_n(x)=(x+n)mod\ 26         
+(Encryption Phase with shift n)
+
+D_n(x)=(x-n)mod\ 26         
+(Decryption Phase with shift n)
+--------------------------------------
+
+
+
 
